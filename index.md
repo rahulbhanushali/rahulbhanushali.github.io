@@ -9,7 +9,10 @@ I have experience in building scalable web applications, big data pipelines and 
 ### Social Links
 
 LinkedIn: https://www.linkedin.com/in/rahulbhanushali/
+
 Medium: https://medium.com/@rahulbhanushali
+
+Personal Blog: https://thoughts.rahulbhanushali.com/
 
 
 ## In the news
