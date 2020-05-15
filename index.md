@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+I'm an Software engineer by heart. I love building softwares that makes life of people easier.
 
-You can use the [editor on GitHub](https://github.com/rahulbhanushali/rahulbhanushali.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have 7 years of experience in the software industry working in both B2B and B2C setups. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From starting as a Web Developer and building web applications using Zend Framework, MySQL and Elasticsearch, I have come a long way to building web applications and backend systems for India' largest ticketing company, BookMyShow. For the past 1 year I am working at Amazon India as Data Engineer.
 
-### Markdown
+I have experience in building scalable web applications, big data pipelines and real-time messaging applications. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Social Links
 
-```markdown
-Syntax highlighted code block
+LinkedIn: https://www.linkedin.com/in/rahulbhanushali/
+Medium: https://medium.com/@rahulbhanushali
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## In the news
+https://yourstory.com/2017/06/bookmyshow-plan-it
 
-1. Numbered
-2. List
+https://www.businesstoday.in/technology/news/bookmyshow-whatsapp-officially-deliver-tickets-texts/story/260299.html
 
-**Bold** and _Italic_ and `Code` text
+https://www.cio.com/article/3451022/bookmyshow-scores-a-six-in-t20-world-cup-with-queue-management.html
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Technologies
 
-### Jekyll Themes
+Having worked in different setups and environment has allowed me to work with different technologies that meet the demands and scale well.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahulbhanushali/rahulbhanushali.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Some of my favourite technologies are Elasticsearch, AerospikeDB, Kafka. 
 
-### Support or Contact
+## Projects
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having diverse exposure has allowed me to build scalable solutions like the Audeince Segmentation, Data Platform, Experimentation framework and much more.
+
+I have built realtime chat messaging applications, Facebook chatbot which was featured by Facebook and Alexa skills.
+
