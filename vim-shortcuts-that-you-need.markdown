@@ -1,6 +1,8 @@
 ---
 title: VIM Shortcuts that you need
 date: 2020-05-16 12:05:00 +05:30
+published: false
+Field name: 
 ---
 
 VIM is a great text editor with lot of features but there are few things that we do frequently as a developer.
