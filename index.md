@@ -1,10 +1,10 @@
-I'm an Software engineer by heart. I love building softwares that makes life of people easier.
+I’m a Software engineer by heart. I love building software that makes the lives of people easier.
 
-I have 7 years of experience in the software industry working in both B2B and B2C setups. 
+I have 7 years of experience in the software industry working in both B2B and B2C setups.
 
-From starting as a Web Developer and building web applications using Zend Framework, MySQL and Elasticsearch, I have come a long way to building web applications and backend systems for India' largest ticketing company, BookMyShow. For the past 1 year I am working at Amazon India as Data Engineer.
+From starting as a Web Developer and building web applications using Zend Framework, MySQL and Elasticsearch, I have come a long way to building web applications and backend systems for India’ largest ticketing company, BookMyShow. For the past 1 year, I am working at Amazon India as a Data Engineer.
 
-I have experience in building scalable web applications, big data pipelines and real-time messaging applications. 
+I have experience in building scalable web applications, big data pipelines and real-time messaging applications.
 
 ### Social Links
 
