@@ -1,4 +1,4 @@
-I’m a Software engineer by heart. I love building software that makes the lives of people easier.
+I’m a Software engineer at heart. I love building software that makes the lives of people easier.
 
 I have 7 years of experience in the software industry working in both B2B and B2C setups.
 
